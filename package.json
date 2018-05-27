@@ -1,0 +1,33 @@
+{
+  "name": "@joe-sh/alfred-finer-gifs",
+  "version": "1.0.0",
+  "description": "An Alfred Workflow for searching The Finer Gifs Club for gifs from The Office (US)",
+  "license": "MIT",
+  "repository": "josephschmitt/alfred-finer-gifs-alfred",
+  "main": "index.js",
+  "module": "index.mjs",
+  "author": {
+    "name": "Joe Schmitt",
+    "email": "npm@joe.sh",
+    "url": "https://thefinergifs.club"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "keywords": [
+    "alfred",
+    "workflow",
+    "alfy"
+  ],
+  "dependencies": {
+    "alfy": "^0.6.0",
+    "esm": "^3.0.38"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
