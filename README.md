@@ -8,7 +8,7 @@
 1. Download the [latest release](./releases/latest/) and double-click to install.
 2. Use `npm`:
    ```sh
-   npm install --global alfred-finer-gifs-alfred
+   npm install --global @joe-sh/alfred-finer-gifs
    ```
 _Requires the Alfred [Powerpack](https://www.alfredapp.com/powerpack/), and if installing from
 `npm` [Node.js](https://nodejs.org) 6+_
