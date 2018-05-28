@@ -5,6 +5,8 @@
 
 ## Install
 
+You have two options to install the Workflow:
+
 1. Download the [latest release](./releases/latest/) and double-click to install.
 2. Use `npm`:
    ```sh
