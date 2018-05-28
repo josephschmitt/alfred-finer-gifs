@@ -7,7 +7,8 @@
 
 You have two options to install the Workflow:
 
-1. Download the [latest release](./releases/latest/) and double-click to install.
+1. Download the [latest release](https://github.com/josephschmitt/alfred-finer-gifs/releases/latest)
+and double-click to install.
 2. Use `npm`:
    ```sh
    npm install --global @joe-sh/alfred-finer-gifs

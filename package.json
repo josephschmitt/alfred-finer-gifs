@@ -1,6 +1,6 @@
 {
   "name": "@joe-sh/alfred-finer-gifs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An Alfred Workflow for searching The Finer Gifs Club for gifs from The Office (US)",
   "license": "MIT",
   "repository": "josephschmitt/alfred-finer-gifs-alfred",
